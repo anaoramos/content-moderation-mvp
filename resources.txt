@@ -1,2 +1,25 @@
-https://fastapi.tiangolo.com/tutorial/
+# Looked into the Hugging Face documentation. These are some of the pages I looked at:
 https://huggingface.co/KoalaAI/Text-Moderation
+https://huggingface.co/KoalaAI/Text-Moderation?library=transformers
+https://huggingface.co/docs/transformers/main_classes/pipelines
+https://huggingface.co/docs/transformers/main/en/model_doc/deberta#transformers.DebertaForSequenceClassification
+https://huggingface.co/docs/transformers/en/main_classes/model
+
+# I'm using PyCharm and had to check how to set up the local configuration because I was getting an error:
+https://www.jetbrains.com/help/pycharm/poetry.html
+
+
+# Looked into the FastAPI docs (explored more pages within the documentation than the ones listed below, but this was mainly it):
+https://fastapi.tiangolo.com/tutorial/
+https://fastapi.tiangolo.com/tutorial/body/?h=pydantic#import-pydantics-basemodel
+
+
+# Errors installing TensorFlow - it turned out to be an issue on my side. I was using an unsupported Python version (3.13).
+https://pypi.org/project/tensorflow/#history
+https://github.com/python-poetry/poetry/issues/4605
+https://stackoverflow.com/questions/70356867/solverproblemerror-on-install-tensorfow-with-poetry
+
+
+# AI Assistants
+Used Grammarly to fix the docstrings and comments.
+

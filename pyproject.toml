@@ -6,9 +6,12 @@ authors = [
     {name = "Ana Ramos"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
-    "transformers (>=4.49.0,<5.0.0)"
+    "transformers (>=4.49.0,<5.0.0)",
+    "fastapi[standard] (>=0.115.8,<0.116.0)",
+    "tensorflow (==2.18.0)",
+    "tf-keras (>=2.18.0,<3.0.0)",
 ]
 
 

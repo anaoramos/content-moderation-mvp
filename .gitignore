@@ -1,18 +1,12 @@
-# Python cache files
 __pycache__/
 *.py[cod]
 
-# Poetry virtual environment
 .venv/
 
-# IDE/editor files
 .idea/
 
-# macOS system files
 .DS_Store
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Environment variables (if you use .env)
 .env
+
+models/
