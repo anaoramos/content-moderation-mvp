@@ -9,4 +9,4 @@ __pycache__/
 
 .env
 
-models/
+app/models/*

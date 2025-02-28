@@ -23,3 +23,6 @@ https://stackoverflow.com/questions/70356867/solverproblemerror-on-install-tenso
 # AI Assistants
 Used Grammarly to fix the docstrings and comments.
 
+#
+https://docs.python.org/3/howto/logging.html#logging-to-a-file
+https://docs.python.org/3/howto/logging.html#displaying-the-date-time-in-messages

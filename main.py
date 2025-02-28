@@ -1,6 +1,16 @@
+import logging
+
 import uvicorn
 from fastapi import FastAPI
 from app.api.router import router
+
+logging.basicConfig(
+    filename="server.log",
+    # Saving logs to a file, as described in the exercise.
+    level=logging.INFO,
+    encoding='utf-8',
+    format='%(asctime)s %(message)s'
+)
 
 app = FastAPI()
 
