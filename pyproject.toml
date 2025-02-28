@@ -1,7 +1,7 @@
 [project]
 name = "content-moderation-mvp"
 version = "0.1.0"
-description = ""
+description = "Content Moderation MVP"
 authors = [
     {name = "Ana Ramos"}
 ]
@@ -10,8 +10,7 @@ requires-python = ">=3.10"
 dependencies = [
     "transformers (>=4.49.0,<5.0.0)",
     "fastapi[standard] (>=0.115.8,<0.116.0)",
-    "tensorflow (==2.18.0)",
-    "tf-keras (>=2.18.0,<3.0.0)",
+    "torch (>=2.6.0,<3.0.0)",
 ]
 
 

@@ -8,21 +8,22 @@ https://huggingface.co/docs/transformers/en/main_classes/model
 # I'm using PyCharm and had to check how to set up the local configuration because I was getting an error:
 https://www.jetbrains.com/help/pycharm/poetry.html
 
-
 # Looked into the FastAPI docs (explored more pages within the documentation than the ones listed below, but this was mainly it):
 https://fastapi.tiangolo.com/tutorial/
 https://fastapi.tiangolo.com/tutorial/body/?h=pydantic#import-pydantics-basemodel
-
+https://fastapi.tiangolo.com/tutorial/testing/#using-testclient
 
 # Errors installing TensorFlow - it turned out to be an issue on my side. I was using an unsupported Python version (3.13).
 https://pypi.org/project/tensorflow/#history
 https://github.com/python-poetry/poetry/issues/4605
 https://stackoverflow.com/questions/70356867/solverproblemerror-on-install-tensorfow-with-poetry
 
-
 # AI Assistants
-Used Grammarly to fix the docstrings and comments.
+Used Grammarly and ChatGPT to fix the docstrings and comments.
 
-#
+# Logging
 https://docs.python.org/3/howto/logging.html#logging-to-a-file
 https://docs.python.org/3/howto/logging.html#displaying-the-date-time-in-messages
+
+# datetime
+https://www.geeksforgeeks.org/python-datetime-strptime-function/
